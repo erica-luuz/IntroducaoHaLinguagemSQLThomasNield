@@ -10,3 +10,4 @@ INNER JOIN TRACK
 ON TRACK.AlbumId = Album.AlbumId
 
 GROUP BY 1,2
+
